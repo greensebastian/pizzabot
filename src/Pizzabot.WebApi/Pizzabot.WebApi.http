@@ -1,0 +1,6 @@
+@Pizzabot.WebApi_HostAddress = http://localhost:5234
+
+GET {{Pizzabot.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
